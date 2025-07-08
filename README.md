@@ -88,16 +88,6 @@ ReadEase uses a modular web architecture with an intuitive frontend and a Flask-
 
 ---
 
-## 🖼️ Snapshots
-
-### Homepage
-![Homepage](snapshots/homepage.png)
-
-### Learning Area
-![Learning Area](snapshots/learningarea.png)
-
----
-
 ## 🙌 Conclusion
 
 **ReadEase** bridges the gap in education for neurodiverse learners by offering an adaptable, child-friendly, and scientifically supported approach to learning. It aims to enable every child to thrive by learning in the way that works best for them.
