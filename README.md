@@ -88,6 +88,7 @@ ReadEase uses a modular web architecture with an intuitive frontend and a Flask-
 
 ---
 
+
 ## 🖼️ Snapshots
 
 ### Homepage
